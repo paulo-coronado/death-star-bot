@@ -4,7 +4,7 @@
 
 ## Características do Modelo 3D
 
-## Detalhes da Programação e Serviços IBM Utilizados
+## Detalhes de Programação e Serviços IBM Utilizados
 
 ## Conclusão
 
