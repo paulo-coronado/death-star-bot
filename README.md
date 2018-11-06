@@ -6,8 +6,8 @@
 
 * Raspberry Pi 3;
 * Impressora 3D (material PLA ou ABS);
-* Sensor de Temperatura;
-* Giroscópio;
+* Sensor de Temperatura DHT11;
+* Acelerômetro e Giroscópio MPU6050;
 * Buzzer;
 * LED.
 
@@ -23,6 +23,4 @@ A impressão é dividida em 4 partes. São necessários 10 parafusos M3 x 15mm, 
 O suporte é sólido, e não só é projetado para evitar que a nave role, mas também para não desalinhar o modelo em seu eixo simétrico.
 
 ## Detalhes de Programação e Serviços da IBM Utilizados
-
-## Conclusão
 
