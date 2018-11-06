@@ -1,0 +1,11 @@
+I present the Deathstar raspberry pi 3 enclosure.
+
+Designed to house the pi 3 with an option for a 30mm fan to be mounted in top dome.
+
+Designed with easy printing in mine the case is sectioned into 4 parts. 10 M3 x 15mm screws are required but the top and bottom dome can be glues if you so desire.
+
+The finished 2 halves lock together with a slot pin at the front and a hidden screw at back to hold in place. Also an option to print either a solid bottom section where the top half is needed to be removed the access the SD card or the version with a section cut out to remove SD card from the side of the case.
+
+The stand is solid and designed to keep the case from rolling but also no to look that out of place with the model.
+
+Vents at back for extra cooling.
