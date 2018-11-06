@@ -4,6 +4,12 @@
 
 ## Material Utilizado
 
+* Raspberry Pi 3;
+* Impressora 3D (material PLA ou ABS);
+* Sensor de Temperatura;
+* Giroscópio;
+* Buzzer;
+* LED.
 
 
 ## Características do Modelo 3D
