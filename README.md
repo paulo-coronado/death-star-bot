@@ -4,7 +4,5 @@
 
 ## Características do Modelo 3D
 
-## Serviços IBM Utilizados
-
-## Fluxo de Dados
+## Detalhes da Programação e Serviços IBM Utilizados
 
