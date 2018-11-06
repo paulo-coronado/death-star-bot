@@ -1,2 +1,10 @@
-# death-star-bot
-Death Star 3D printed model project, integrated with IBM Watson.
+# Projeto IoT - Estrela da Morte
+
+## Introdução
+
+## Características do Modelo 3D
+
+## Detalhes de Programação e Serviços da IBM Utilizados
+
+## Conclusão
+
