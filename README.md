@@ -2,6 +2,8 @@
 
 ## Introdução
 
+O propósito desse projeto foi integrar o Raspberry Pi 3 com um dashboard online - Ubidots - utilizando o protocolo HTTP, junto com 2 sensores e 2 atuadores à escolha dos integrantes do grupo e o laboratório FabLab. Além disso, decidiu-se integrar serviços da IBM IoT, a fim de garantir inteligência e facilidade no desenvolvimento do sistema. Foi escolhido então desenvolver um modelo da conhecida Estrela da Morte da série de filmes Star Wars.
+
 ## Material Utilizado
 
 * Raspberry Pi 3;
@@ -11,6 +13,9 @@
 * Buzzer;
 * LED.
 
+## Princípio Básico de Funcionamento
+
+O modelo possui uma funcionalidade integrada com o IBM Watson, capaz de reconhecer comandos enviados via o aplicativo de mensagens Telegram; seja por texto ou até por voz (tratamento via serviços Text To Speech e Speech to Text). Isso inclui acender/apagar/piscar o LED, "disparar" a Estrela da Morte, reproduzir sons pré-definidos, detectar movimento e acionar um alarme e medir a temperatura. Todos esses comandos geram uma resposta do sistema confirmando a ação escolhida, reproduzida via conector de áudio do Raspberry Pi.
 
 ## Características do Modelo 3D
 
