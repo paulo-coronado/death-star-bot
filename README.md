@@ -36,11 +36,11 @@ Ainda nesse quesito, é possível acionar um sistema de alarme via dashboard Ubi
 
 O sensor de temperatura alimenta continuamente o gráfico do dashboard com até 2 horas de histórico de medições e representações em linha das suas alterações.
 
-## Construído utilizando:
+## Autores:
 
-* [NOME DE EXIBIÇÃO 1](http://www.ENDEREÇOBASE1/) - DESCRIÇÃO 1
-* [NOME DE EXIBIÇÃO 2](http://www.ENDEREÇOBASE2/) - DESCRIÇÃO 2
-* [NOME DE EXIBIÇÃO 3](http://www.ENDEREÇOBASE3/) - DESCRIÇÃO 3
+* **Paulo Coronado** - *R.A.: 15.00900-9* - [plcpinho](https://github.com/plcpinho)
+* **Rafael Caielli** - *R.A.: 15.04095-0* - [RafaNegrao](https://github.com/RafaNegrao)
+* **Ricardo Kannebley** - *R.A.: 15.00116-4* - [RickBadKan](https://github.com/RickBadKan)
 
 ## Características do Modelo 3D
 
