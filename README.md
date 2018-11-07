@@ -26,10 +26,10 @@ O comando via texto ou mensagem de voz pelo Telegram de disparar ativa uma sequ�
 
 #### Reprodução de sons e alarme
 
-O modelo também é capaz de executar e reproduzir músicas pré-definidas. Desta forma o sistema, após ter reconhecido e interpretado a linguagem natural, executa scripts Python que alteram a frequência PWM do buzzer, de forma a reproduzir a melodia escolhida. Como exemplo de  músicas, o sistema pode tocar a clássica Marcha Imperial, a música-tema do jogo Mario Brothers et al. Com isso, para soliciar a reprodução da música-tema de Mario Brothers, basta ordenar:
+O modelo também é capaz de executar e reproduzir músicas pré-definidas. Desta forma o sistema, após ter reconhecido e interpretado a linguagem natural, executa scripts Python que alteram a frequência PWM do buzzer, de forma a reproduzir a melodia escolhida. Como exemplo de  músicas, o sistema pode tocar a clássica Marcha Imperial, a música-tema do jogo Mario Brothers et al. Com isso, para solicitar a reprodução da Marcha Imperial, basta ordenar:
 
 ```
-Tocar Mario
+Tocar música: Marcha Imperial
 ```
 
 Ainda nesse quesito, é possível acionar um sistema de alarme via dashboard Ubidots que identifica a movimentação do modelo via giroscópio e reage tocando um som semelhante a de um alarme por 5 segundos, enquanto estiver acionado.
