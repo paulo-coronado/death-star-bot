@@ -1,4 +1,4 @@
-# Projeto Estrela da Morte - Utilizando Linguagem Natural para Executar Comandos
+# Projeto Estrela da Morte - Reconhecimento de Linguagem Natural e Utilização prática de IA
 
 ## Introdução
 
