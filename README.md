@@ -14,8 +14,12 @@ O propósito desse projeto foi integrar o Raspberry Pi 3 com um dashboard online
 * LED.
 
 ## Princípio Básico de Funcionamento
-=== CONTINUAR A PARTIR DAQUI ===
-O modelo possui uma funcionalidade integrada com o IBM Watson, capaz de reconhecer comandos enviados via o aplicativo de mensagens Telegram; seja por texto ou até por voz (tratamento via serviços Text To Speech e Speech to Text). Isso inclui acender/apagar/piscar o LED, "disparar" a Estrela da Morte, reproduzir sons pré-definidos, detectar movimento e acionar um alarme e medir a temperatura. Todos esses comandos geram uma resposta do sistema confirmando a ação escolhida, reproduzida via conector de áudio do Raspberry Pi.
+
+O modelo possui uma funcionalidade integrada com o IBM Watson, capaz de reconhecer comandos enviados via o aplicativo de mensagens Telegram; seja por texto ou até por voz (tratado pelos serviços TTS e STT da IBM). Isso inclui acender/apagar/piscar o LED, "atirar" com a Estrela da Morte, reproduzir sons pré-definidos, detectar movimento e acionar um alarme e medir a temperatura interna da espaçonave. Todos esses comandos geram uma resposta do sistema confirmando a ação escolhida, reproduzida via conector de áudio do Raspberry Pi.
+
+#### Disparo da Estrela da Morte
+
+O comando via texto ou mensagem de voz pelo Telegram de disparar ativa uma sequência de efeitos divididos em 3 etapas de som e luz com o propósito de simular a funcionalidade da arma.
 
 ## Características do Modelo 3D
 
