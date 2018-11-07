@@ -36,6 +36,12 @@ Ainda nesse quesito, é possível acionar um sistema de alarme via dashboard Ubi
 
 O sensor de temperatura alimenta continuamente o gráfico do dashboard com até 2 horas de histórico de medições e representações em linha das suas alterações.
 
+## Construído utilizando:
+
+* [NOME DE EXIBIÇÃO 1](http://www.ENDEREÇOBASE1/) - DESCRIÇÃO 1
+* [NOME DE EXIBIÇÃO 2](http://www.ENDEREÇOBASE2/) - DESCRIÇÃO 2
+* [NOME DE EXIBIÇÃO 3](http://www.ENDEREÇOBASE3/) - DESCRIÇÃO 3
+
 ## Características do Modelo 3D
 
 A impressão do modelo pode ser feita utilizando os materiais PLA (maior perfeccionismo nos detalhes) ou ABS (maior resistência e durabilidade).
