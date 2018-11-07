@@ -21,6 +21,21 @@ O modelo possui uma funcionalidade integrada com o IBM Watson, capaz de reconhec
 
 O comando via texto ou mensagem de voz pelo Telegram de disparar ativa uma sequência de efeitos divididos em 3 etapas de som e luz com o propósito de simular a funcionalidade da arma.
 
+#### Reprodução de sons e alarme
+
+O modelo também é capaz de executar e reproduzir músicas pré-definidas. Desta forma o sistema, após ter reconhecido e interpretado a linguagem natural, executa scripts Python que alteram a frequência PWM do buzzer, de forma a reproduzir a melodia escolhida. Como exemplo de  músicas, o sistema pode tocar a clássica Marcha Imperial, a música-tema do jogo Mario Brothers et al. Com isso, para soliciar a reprodução da música-tema de Mario Brothers, basta ordenar:
+
+```
+Tocar Mario
+```
+
+Ainda nesse quesito, é possível acionar um sistema de alarme via dashboard Ubidots que identifica a movimentação do modelo via giroscópio e reage tocando um som semelhante a de um alarme por 5 segundos, enquanto estiver acionado.
+
+
+#### Temperatura
+
+O sensor de temperatura alimenta continuamente o gráfico do dashboard com até 2 horas de histórico de medições e representações em linha das suas alterações.
+
 ## Características do Modelo 3D
 
 A impressão do modelo pode ser feita utilizando os materiais PLA (maior perfeccionismo nos detalhes) ou ABS (maior resistência e durabilidade).
