@@ -1,4 +1,4 @@
-# Projeto Estrela da Morte - Reconhecimento de Linguagem Natural e Utilização prática de IA
+# Projeto Estrela da Morte - Reconhecimento de Linguagem Natural e Aplicação IoT
 
 ## Introdução
 
