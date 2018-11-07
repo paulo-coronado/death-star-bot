@@ -51,3 +51,4 @@ O suporte é sólido, e não só é projetado para evitar que a nave role, mas t
 
 ## Detalhes de Programação e Serviços da IBM Utilizados
 
+![Diagram](/images/diagrama-global.png)
