@@ -1,4 +1,4 @@
-# Projeto IoT - Estrela da Morte
+# Projeto Estrela da Morte - Utilizando Linguagem Natural para Executar Comandos
 
 ## Introdução
 
@@ -7,11 +7,14 @@ O propósito desse projeto foi integrar o Raspberry Pi 3 com um dashboard online
 ## Material Utilizado
 
 * Raspberry Pi 3;
+* SD Card (16 GB+) - Raspbian OS + Scripts + Node-red;
 * Impressora 3D (material PLA ou ABS);
 * Sensor de Temperatura DHT11;
 * Acelerômetro e Giroscópio MPU6050;
 * Buzzer;
-* LED.
+* LED;
+* 1x Resistor 330 Ω;
+* 10 parafusos M3 x 15 mm.
 
 ## Princípio Básico de Funcionamento
 
@@ -36,19 +39,13 @@ Ainda nesse quesito, é possível acionar um sistema de alarme via dashboard Ubi
 
 O sensor de temperatura alimenta continuamente o gráfico do dashboard com até 2 horas de histórico de medições e representações em linha das suas alterações.
 
-## Autores:
-
-* **Paulo Coronado** - *R.A.: 15.00900-9* - [plcpinho](https://github.com/plcpinho)
-* **Rafael Caielli** - *R.A.: 15.04095-0* - [RafaNegrao](https://github.com/RafaNegrao)
-* **Ricardo Kannebley** - *R.A.: 15.00116-4* - [RickBadKan](https://github.com/RickBadKan)
-
 ## Características do Modelo 3D
 
 A impressão do modelo pode ser feita utilizando os materiais PLA (maior perfeccionismo nos detalhes) ou ABS (maior resistência e durabilidade).
 
-O modelo foi projeto para embarcar um Raspberry Pi 3 com a opção de ventoinha de 30mm posicionada no topo da cúpula.
+O modelo foi projeto para embarcar um Raspberry Pi 3 com a opção de ventoinha de 30 mm posicionada no topo da cúpula.
 
-A impressão é dividida em 4 partes. São necessários 10 parafusos M3 x 15mm, sendo que as cúpulas superior e inferior podem ser coladas, se assim o desejar.
+A impressão é dividida em 4 partes. São necessários 10 parafusos M3 x 15 mm, sendo que as cúpulas superior e inferior podem ser coladas, se assim o desejar.
 
 O suporte é sólido, e não só é projetado para evitar que a nave role, mas também para não desalinhar o modelo em seu eixo simétrico.
 
